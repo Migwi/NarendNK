@@ -1,0 +1,1 @@
+This is a CScNetlib-server configuration and Logging project. The project uses Poco lib for logging and reading server configuration. The server barely does nothing apart from reading from iniFile(settings.ini) and logging the validation information relating to settings that have been read into logfile(config.ini).
